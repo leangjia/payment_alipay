@@ -9,9 +9,10 @@ Odoo 8.0 支付宝模块中文使用<br>
 <br>
 alipay的设置步骤如下：<br>
 1、odoo中，【设置】->【Payments 】下【 Payment Acquirers 】会看到有【Alipay】，点它，画面会转一下到alipay支付宝模块配置页的画面；<br>
-2、其中特别注意：支付宝的开发者注册成功后，会得到一些参数，例如以下三样：<br>
+2、其中特别注意：支付宝的开发者注册成功后，会得到一些参数，例如以下几样：<br>
  Alipay Partner ID<br>
 Alipay Partner Key<br>
 Alipay Seller Email <br>
+interface type<br>
 将这三样填写进去即可实现利用odoo开网上商城，然后用alipay支付宝来收款。<br>
 以上，简述一下。如有不当，请跟贴。<br>
