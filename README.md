@@ -1,9 +1,10 @@
+声明：模块原作者为Jeffery大佬，本仓库是当时Jeffery在群里的教学所交的作业。特此声明，向大佬致敬！
 Odoo 8.0 支付宝模块中文使用<br>
 <br>
 一、安装payment_alipay模块前的注意事项：<br>
 <br>
 1、要注意观察，是否得到两个文件夹，如果是下载zip包，则解压后注意路径问题，要把模块放addons目录下层，而不是在下下层目录。确保目录路径为addons\payment_allpay\以及addons\payment_alipay\都能看到README.md该文件。<br>
-2、首先到https://github.com/odoo-cn/payment/tree/8.0 下载得到8.0版本的pay两个：支付宝(alipay)和欧付宝(allpay)，<br>
+2、首先到https://github.com/jeffery9/odoo-payment （原始链接已由原作者Jeffery大佬变更名称https://github.com/odoo-cn/payment/tree/8.0） 下载得到8.0版本的pay两个：支付宝(alipay)和欧付宝(allpay)，<br>
 3、然后到odoo里更新模块列表：【设置】->【模块】下的【更新模块列表】，更新后，可搜到alipay和allpay两个模块。<br>
 二、配置alipay和allpay：<br>
 <br>
